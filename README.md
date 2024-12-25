@@ -2,7 +2,7 @@
 Quickly search StackOverflow for your error
 
 ## Description
-This VS Code extensions adds a button in the "Quick Fix" menu on each error that will take you to StackOverflow search page with the text of your error.
+This VS Code extension adds a button in the "Quick Fix" menu on each error that will take you to StackOverflow search page with the text of your error.
 
 ## Demo
 
